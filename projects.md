@@ -19,7 +19,8 @@ sidebar_link: true
     </style>
     <title>Projects</title>
 </head>
-<body>
+<body> 
+<h2>Ethnographic Diversity and Terrain of Yugoslavia (1940)</h2>
     <div class="message-box">
         The Balkans have always held a special fascination for me. It's a region that's seen its fair share of historical conflicts, from the Byzantine and Bulgarian Empires to the Ottoman and Austria-Hungary. This map, "Ethnographic Diversity and Terrain of Yugoslavia (1940)" gives us a snapshot of the ethnic makeup of Yugoslavia just a year before Tito's partisans entered the scene, shedding light on the region's complexity.
 
