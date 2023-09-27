@@ -6,23 +6,27 @@ sidebar_link: true
 <br>    
 &nbsp; **Coming Soon**
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .message-box {
-            border: 2px solid #ccc;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-    </style>
-    <title>Projects</title>
-</head>
-<body>
-    <div class="message-box">
-        I'm currently working on some exciting projects, but they're not quite ready to be showcased. Please check back soon for updates and more details about my upcoming projects!
-    </div>
-</body>
-</html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .message-box {
+                border: 2px solid #ccc;
+                padding: 20px;
+                background-color: #f5f5f5;
+            }
+        </style>
+        <title>Projects</title>
+    </head>
+    <body>
+        <div class="message-box">
+            The Balkans have always held a special fascination for me. It's a region that's seen its fair share of historical conflicts, from the Byzantine and Bulgarian Empires to the Ottoman and Austria-Hungary. This map, "Ethnographic Diversity and Terrain of Yugoslavia (1940)," gives us a snapshot of the ethnic makeup of Yugoslavia just a year before Tito's partisans entered the scene, shedding light on the region's complexity.
+
+            Behind the scenes, software applications: Photoshop, QGIS, and Blender, were used to edit and create this map from two sources. The first, SRTM 1 Arc-Second Global dataset to provide realistic topgraphy (used as the displacement in blender). The second, the historical map that was meticulously edited in photoshop and georeferenced in QGIS. The resulting work can be seen below. 
+            <embed src="https://michaelkburgess.github.io/files/yugo.tif" width="100%" height="100%" />
+
+        </div>
+    </body>
+    </html>
 
